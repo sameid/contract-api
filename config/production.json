@@ -1,0 +1,5 @@
+{
+    "host": "https://portal.srjca.com",
+    "mongodb": "mongodb://nodeAdmin:Waterloo2015@localhost:27017/test",
+    "ssl": true
+}

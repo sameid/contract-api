@@ -1,0 +1,5 @@
+{
+    "host": "http://localhost:5000",
+    "mongodb": "mongodb://icccms:icccms@ds049598.mlab.com:49598/heroku_app18619346",
+    "ssl": false
+}
